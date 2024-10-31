@@ -9,6 +9,6 @@
 #### Objetivo de Carreira 🔐
 - Tornar-me especialista em Cybersecurity com foco em segurança ofensiva, consolidando conhecimentos em desenvolvimento e automação para agregar valor a projetos de segurança cibernética. Pretendo conseguir certificações, como a OSCP, e busco oportunidades para contribuir em projetos desafiadores que me ajudem a crescer e a desenvolver soluções robustas e eficazes na proteção de sistemas e dados. <br><br><br>
 
-![Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolmacode&show_icons=true&theme=dracula)
+![Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolimacode&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolimacode&size_weight=0.5&count_weight=0.5)
