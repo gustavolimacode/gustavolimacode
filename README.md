@@ -1,11 +1,11 @@
-### 👋 Olá! Eu sou o Gustavo Lima - Aspirante a Especialista em Cybersecurity
+### 👋 Olá! Eu sou o Gustavo Lima - Desenvolvedor backend Júnior
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-borges-de-lima-95a0892a2/)
 
 
 
 #### Objetivo de Carreira 🔐
-- Tornar-me especialista em Cybersecurity com foco em segurança ofensiva, consolidando conhecimentos em desenvolvimento e automação para agregar valor a projetos de segurança cibernética. Pretendo conseguir certificações, como a OSCP, e busco oportunidades para contribuir em projetos desafiadores que me ajudem a crescer e a desenvolver soluções robustas e eficazes na proteção de sistemas e dados. <br><br><br>
+
 
 ![Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolimacode&show_icons=true&theme=dracula)
 
