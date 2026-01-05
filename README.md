@@ -18,7 +18,7 @@ I enjoy learning continuously, have a strong ability to pick up new concepts qui
   <a href = "https://www.linkedin.com/in/gustavo-borgesdelima95a0892a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href = "gustavoblima306@gmail.com">
+  <a href = "mailto:gustavoblima306@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
